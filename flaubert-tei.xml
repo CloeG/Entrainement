@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title ref="ark:/12148/cb11938746n" xml:id="MadameBovary">Madame Bovary</title>
+                <author ref="ark:/12148/cb11902894q" resp="translator author"
+                    xml:id="GustaveFlaubert"> Gustave Flaubertv</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority xml:id="GodartCloé">Godart cloé</authority>
+                <distributor>UBS-GitHub</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="ed_1">
+                    <title ref="#MadameBovary">Madame Bovary</title>
+                    <author ref="#GustaveFlaubert"> Gustave Flaubert </author>
+                    <edition>Publication en feuilleton dans la "Revue de Paris" du 1er octobre au 15
+                        décembre 1856, puis édition en volume chez Michel Lévy. </edition>
+                    <publisher> M. Lévy frères</publisher>
+                    <pubPlace>Paris</pubPlace>
+                    <date when="1857">1857</date>
+                    <idno>Bnf-FRBNF11938746</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>encodage sur l'oeuvre <title ref="#MadameBovary"> Madame Bovary</title> de <name
+                        ref="#GustaveFlaubert">Gustave Flaubert</name>, d'après l'édition <date
+                        when="1857">1857</date></p>
+            </projectDesc>
+            <editorialDecl>
+                <p> Le texte sera retranscrit en français moderne.
+                    https://gallica.bnf.fr/ark:/12148/btv1b8619658w/f11.item.zoom -lien gallica
+                    https://catalogue.bnf.fr/ark:/12148/cb11938746n -lien BNF </p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2025-12-15" who="#GodartCloé">2025-12-15, tout le texte sera écrit en
+                français</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <front>
+            <div type="dédicace">
+                <quote><emph> à Paul de saint Victore; hommage de la meilleure amitié &amp; de la
+                        plus profonde sympathie littéraire.</emph></quote>
+            </div>
+            <div type="dédicace">
+                <quote> À MARIE-ANTOINE-JULES SÉNARD MEMBRE DU BARREAU DE PARIS EX-PRÉSIDENT DE
+                    L’ASSEMBLÉE NATIONALE ET ANCIEN MINISTRE DE L’INTÉRIEUR. <emph> Cher et illustre
+                        Ami, Permettez-moi d’inscrire votre nom en tête de ce livre et au-dessus
+                        même de sa dédicace ; car c’est à vous, surtout, que j’en dois la
+                        publication. En passant par votre magnifique plaidoirie, mon œuvre a acquis
+                        pour moi-même comme une autorité imprévue. Acceptez donc ici l’hommage de ma
+                        gratitude, qui, si grande qu’elle puisse être, ne sera jamais à la hauteur
+                        de votre éloquence et de votre dévouement. </emph>
+                </quote>
+            </div>
+        </front>
+        <body>
+            <div1 n="1" xml:id="p1">
+                <head> Première partie </head>
+
+                <div2 n="1" xml:id="chapitre1">
+                    <head> Chapitre 1 </head>
+
+                    <p>Nous étions à l’étude, quand le Proviseur entra, suivi d’un nouveau habillé
+                        en bourgeois et d’un garçon de classe qui portait un grand pupitre. Ceux qui
+                        dormaient se réveillèrent, et chacun se leva comme surpris dans son
+                        travail.</p>
+
+                    <p>Le Proviseur nous fit signe de nous rasseoir ; puis, se tournant vers le
+                        maître d’études :</p>
+
+                    <p>— Monsieur Roger, lui dit-il à demi-voix, voici un élève que je vous
+                        recommande, il entre en cinquième. Si son travail et sa conduite sont
+                        méritoires, il passera dans les grands, où l’appelle son âge.</p>
+
+                    <p>Resté dans l’angle, derrière la porte, si bien qu’on l’apercevait à peine, le
+                        nouveau était un gars de la campagne, d’une quinzaine d’années environ, et
+                        plus haut de taille qu’aucun de nous tous. Il avait les cheveux coupés droit
+                        sur le front, comme un chantre de village, l’air raisonnable et fort
+                        embarrassé. Quoiqu’il ne fût pas large des épaules, son habit-veste de drap
+                        vert à boutons noirs devait le gêner aux entournures et laissait voir, par
+                        la fente des parements, des poignets rouges habitués à être nus. Ses jambes,
+                        en bas bleus, sortaient d’un pantalon jaunâtre très tiré par les bretelles.
+                        Il était chaussé de souliers forts, mal cirés, garnis de clous.</p>
+                </div2>
+                <div2 n="2" xml:id="chapitre2">
+                    <head> Chapitre 2</head>
+
+                    <p>Une nuit, vers onze heures, ils furent réveillés par le bruit d’un cheval qui
+                        s’arrêta juste à la porte. La bonne ouvrit la lucarne du grenier et
+                        parlementa quelque temps avec un homme resté en bas, dans la rue. Il venait
+                        chercher le médecin ; il avait une lettre. Nastasie descendit les marches en
+                        grelottant, et alla ouvrir la serrure et les verrous, l’un après l’autre.
+                        L’homme laissa son cheval, et, suivant la bonne, entra tout à coup derrière
+                        elle. Il tira de dedans son bonnet de laine à houppes grises une lettre
+                        enveloppée dans un chiffon, et la présenta délicatement à Charles, qui
+                        s’accouda sur l’oreiller pour la lire. Nastasie, près du lit, tenait la
+                        lumière. Madame, par pudeur, restait tournée vers la ruelle et montrait le
+                        dos.</p>
+
+                    <p>Cette lettre, cachetée d’un petit cachet de cire bleue, suppliait M. Bovary
+                        de se rendre immédiatement à la ferme des Bertaux, pour remettre une jambe
+                        cassée. Or il y a, de Tostes aux Bertaux, six bonnes lieues de traverse, en
+                        passant par Longueville et Saint-Victor. La nuit était noire. Mme Bovary
+                        jeune redoutait les accidents pour son mari. Donc, il fut décidé que le
+                        valet d’écurie prendrait les devants. Charles partirait trois heures plus
+                        tard, au lever de la lune. On enverrait un gamin à sa rencontre, afin de lui
+                        montrer le chemin de la ferme et d’ouvrir les clôtures devant lui.</p>
+
+                    <p>Vers quatre heures du matin, Charles, bien enveloppé dans son manteau, se mit
+                        en route pour les Bertaux. Encore endormi par la chaleur du sommeil, il se
+                        laissait bercer au trot pacifique de sa bête. Quand elle s’arrêtait
+                        d’elle-même devant ces trous entourés d’épines que l’on creuse au bord des
+                        sillons, Charles se réveillant en sursaut, se rappelait vite la jambe
+                        cassée, et il tâchait de se remettre en mémoire toutes les fractures qu’il
+                        savait. La pluie ne tombait plus ; le jour commençait à venir, et, sur les
+                        branches des pommiers sans feuilles, des oiseaux se tenaient immobiles,
+                        hérissant leurs petites plumes au vent froid du matin. La plate campagne
+                        s’étalait à perte de vue, et les bouquets d’arbres autour des fermes
+                        faisaient, à intervalles éloignés, des taches d’un violet noir sur cette
+                        grande surface grise, qui se perdait à l’horizon dans le ton morne du ciel.
+                        Charles, de temps à autre, ouvrait les yeux ; puis, son esprit se fatiguant
+                        et le sommeil revenant de soi-même, bientôt il entrait dans une sorte
+                        d’assoupissement où, ses sensations récentes se confondant avec des
+                        souvenirs, lui-même se percevait double, à la fois étudiant et marié, couché
+                        dans son lit comme tout à l’heure, traversant une salle d’opérés comme
+                        autrefois. L’odeur chaude des cataplasmes se mêlait dans sa tête à la verte
+                        odeur de la rosée ; il entendait rouler sur leur tringle les anneaux de fer
+                        des lits et sa femme dormir… Comme il passait par Vassonville, il aperçut,
+                        au bord d’un fossé, un jeune garçon assis sur l’herbe.</p>
+
+                </div2>
+                <div2 n="3" xml:id="chapitre3">
+                    <head> Chapitre 3 </head>
+
+                    <p>Un matin, le père Rouault vint apporter à Charles le payement de sa jambe
+                        remise : soixante et quinze francs en pièces de quarante sous, et une dinde.
+                        Il avait appris son malheur, et l’en consola tant qu’il put.</p>
+
+                    <p>— Je sais ce que c’est ! disait-il en lui frappant sur l’épaule ; j’ai été
+                        comme vous, moi aussi ! Quand j’ai eu perdu ma pauvre défunte, j’allais dans
+                        les champs pour être tout seul ; je tombais au pied d’un arbre, je pleurais,
+                        j’appelais le bon Dieu, je lui disais des sottises ; j’aurais voulu être
+                        comme les taupes, que je voyais aux branches, qui avaient des vers leur
+                        grouillant dans le ventre, crevé, enfin. Et quand je pensais que d’autres, à
+                        ce moment-là, étaient avec leurs bonnes petites femmes à les tenir
+                        embrassées contre eux, je tapais de grands coups par terre avec mon bâton ;
+                        j’étais quasiment fou, que je ne mangeais plus ; l’idée d’aller seulement au
+                        café me dégoûtait, vous ne croiriez pas. Eh bien, tout doucement, un jour
+                        chassant l’autre, un printemps sur un hiver et un automne par-dessus un été,
+                        ça a coulé brin à brin, miette à miette ; ça s’en est allé, c’est parti,
+                        c’est descendu, je veux dire, car il vous reste toujours quelque chose au
+                        fond, comme qui dirait… un poids, là, sur la poitrine ! Mais puisque c’est
+                        notre sort à tous, on ne doit pas non plus se laisser dépérir, et, parce que
+                        d’autres sont morts vouloir mourir… Il faut vous secouer, monsieur Bovary ;
+                        ça se passera ! Venez nous voir ; ma fille pense à vous de temps à autre,
+                        savez-vous bien, et elle dit comme ça que vous l’oubliez. Voilà le printemps
+                        bientôt ; nous vous ferons tirer un lapin dans la garenne, pour vous
+                        dissiper un peu.</p>
+                </div2>
+
+                <div2 n="4" xml:id="chapitre4">
+                    <head> Chapitre 4 </head>
+
+                    <p>Les conviés arrivèrent de bonne heure dans des voitures, carrioles à un
+                        cheval, chars à bancs à deux roues, vieux cabriolets sans capote,
+                        tapissières à rideaux de cuir, et les jeunes gens des villages les plus
+                        voisins dans des charrettes où ils se tenaient debout, en rang, les mains
+                        appuyées sur les ridelles pour ne pas tomber, allant au trot et secoués dur.
+                        Il en vint de dix lieues loin, de Goderville, de Normanville, et de Cany. On
+                        avait invité tous les parents des deux familles, on s’était raccommodé avec
+                        les amis brouillés, on avait écrit à des connaissances perdues de vue depuis
+                        longtemps.</p>
+                </div2>
+
+                <div2 n="5" xml:id="chapitre5">
+                    <head> Chapitre 5 </head>
+                    <p>La façade de briques était juste à l’alignement de la rue, ou de la route
+                        plutôt. Derrière la porte se trouvaient accrochés un manteau à petit collet,
+                        une bride, une casquette de cuir noir, et, dans un coin, à terre, une paire
+                        de houseaux encore couverts de boue sèche. À droite était la salle,
+                        c’est-à-dire l’appartement où l’on mangeait et où l’on se tenait. Un papier
+                        jaune serin, relevé dans le haut par une guirlande de fleurs pâles,
+                        tremblait tout entier sur sa toile mal tendue ; des rideaux de calicot
+                        blanc, bordés d’un galon rouge, s’entre-croisaient le long des fenêtres, et
+                        sur l’étroit chambranle de la cheminée resplendissait une pendule à tête
+                        d’Hippocrate, entre deux flambeaux d’argent plaqué, sous des globes de forme
+                        ovale. De l’autre côté du corridor était le cabinet de Charles, petite pièce
+                        de six pas de large environ, avec une table, trois chaises et un fauteuil de
+                        bureau. Les tomes du Dictionnaire des sciences médicales, non coupés, mais
+                        dont la brochure avait souffert dans toutes les ventes successives par où
+                        ils avaient passé, garnissaient presque à eux seuls les six rayons d’une
+                        bibliothèque en bois de sapin. L’odeur des roux pénétrait à travers la
+                        muraille, pendant les consultations, de même que l’on entendait de la
+                        cuisine, les malades tousser dans le cabinet et débiter toute leur histoire.
+                        Venait ensuite, s’ouvrant immédiatement sur la cour, où se trouvait
+                        l’écurie, une grande pièce délabrée qui avait un four, et qui servait
+                        maintenant de bûcher, de cellier, de garde-magasin, pleine de vieilles
+                        ferrailles, de tonneaux vides, d’instruments de culture hors de service,
+                        avec quantité d’autres choses poussiéreuses dont il était impossible de
+                        deviner l’usage.</p>
+                </div2>
+
+                <div2 n="6" xml:id="chapitre6">
+                    <head> Chapitre 6 </head>
+
+                    <p>Elle avait lu Paul et Virginie et elle avait rêvé la maisonnette de bambous,
+                        le nègre Domingo, le chien Fidèle, mais surtout l’amitié douce de quelque
+                        bon petit frère, qui va chercher pour vous des fruits rouges dans des grands
+                        arbres plus hauts que des clochers, ou qui court pieds nus sur le sable,
+                        vous apportant un nid d’oiseau.</p>
+                </div2>
+
+                <div2 n="7" xml:id="chapitre7">
+                    <head> Chapitre 7 </head>
+
+                    <p>Elle songeait quelquefois que c’étaient là pourtant les plus beaux jours de
+                        sa vie, la lune de miel, comme on disait. Pour en goûter la douceur, il eût
+                        fallu, sans doute, s’en aller vers ces pays à noms sonores où les lendemains
+                        de mariage ont de plus suaves paresses ! Dans des chaises de poste, sous des
+                        stores de soie bleue, on monte au pas des routes escarpées, écoutant la
+                        chanson du postillon qui se répète dans la montagne avec les clochettes des
+                        chèvres et le bruit sourd de la cascade. Quand le soleil se couche, on
+                        respire au bord des golfes le parfum des citronniers ; puis, le soir, sur la
+                        terrasse des villas, seuls et les doigts confondus, on regarde les étoiles
+                        en faisant des projets. Il lui semblait que certains lieux sur la terre
+                        devaient produire du bonheur, comme une plante particulière au sol et qui
+                        pousse mal tout autre part. Que ne pouvait-elle s’accouder sur le balcon des
+                        chalets suisses ou enfermer sa tristesse dans un cottage écossais, avec un
+                        mari vêtu d’un habit de velours noir à longues basques, et qui porte des
+                        bottes molles, un chapeau pointu et des manchettes !</p>
+                </div2>
+
+                <div2 n="8" xml:id="chapitre8">
+                    <head> Chapitre 8 </head>
+
+                    <p>e château, de construction moderne, à l’italienne, avec deux ailes avançant
+                        et trois perrons, se déployait au bas d’une immense pelouse où paissaient
+                        quelques vaches, entre des bouquets de grands arbres espacés, tandis que des
+                        bannettes d’arbustes, rhododendrons, seringas et boules-de-neige bombaient
+                        leurs touffes de verdure inégales sur la ligne courbe du chemin sablé. Une
+                        rivière passait sous un pont ; à travers la brume, on distinguait des
+                        bâtiments à toit de chaume, éparpillés dans la prairie, que bordaient en
+                        pente douce deux coteaux couverts de bois, et par derrière, dans les
+                        massifs, se tenaient, sur deux lignes parallèles, les remises et les
+                        écuries, restes conservés de l’ancien château démoli.</p>
+                </div2>
+
+                <div2 n="9" xml:id="chapitre9">
+                    <head> Chapitre 9 </head>
+                    <p> Souvent, lorsque Charles était sorti, elle allait prendre dans l’armoire,
+                        entre les plis du linge où elle l’avait laissé, le porte-cigares en soie
+                        verte. </p>
+                  
+                    <p> Elle le regardait, l’ouvrait, et même elle flairait l’odeur de sa
+                        doublure, mêlée de verveine et de tabac. À qui appartenait-il ?… Au vicomte.
+                        C’était peut-être un cadeau de sa maîtresse. On avait brodé cela sur quelque
+                        métier de palissandre, meuble mignon que l’on cachait à tous les yeux, qui
+                        avait occupé bien des heures et où s’étaient penchées les boucles molles de
+                        la travailleuse pensive. Un souffle d’amour avait passé parmi les mailles du
+                        canevas ; chaque coup d’aiguille avait fixé là une espérance ou un souvenir,
+                        et tous ces fils de soie entrelacés n’étaient que la continuité de la même
+                        passion silencieuse. Et puis le vicomte, un matin, l’avait emporté avec lui.
+                        De quoi avait-on parlé, lorsqu’il restait sur les cheminées à large
+                        chambranle, entre les vases de fleurs et les pendules Pompadour ? Elle était
+                        à Tostes. Lui, il était à Paris, maintenant ; là-bas ! Comment était-ce
+                        Paris ? Quel nom démesuré ! Elle se le répétait à demi-voix, pour se faire
+                        plaisir ; il sonnait à ses oreilles comme un bourdon de cathédrale, il
+                        flamboyait à ses yeux jusque sur l’étiquette de ses pots de pommade.</p>
+                </div2>
+            </div1>
+            <div1 n="2" xml:id="p2">
+                <head> Deuxième partie </head>
+                
+                <div2 n="1" xml:id="chapitre_1">
+                    <head> Chapitre 1 </head>
+                </div2>
+                </div1>
+
+
+        </body>
+    </text>
+</TEI>
